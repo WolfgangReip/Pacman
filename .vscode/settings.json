@@ -1,0 +1,6 @@
+{
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.tabWidth": 4,
+    "prettier.proseWrap": "never",
+    "prettier.printWidth": 100
+}
